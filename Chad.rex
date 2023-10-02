@@ -1,3 +1,4 @@
+#!/usr/bin/env rexx
 /* Rexx */
 
 -- Main:
